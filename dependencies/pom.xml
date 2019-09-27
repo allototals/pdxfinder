@@ -97,6 +97,12 @@
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>tech.tablesaw</groupId>
+            <artifactId>tablesaw-core</artifactId>
+            <version>0.35.0</version>
+        </dependency>
+
     </dependencies>
 
     <dependencyManagement>
